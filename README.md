@@ -1,1 +1,1 @@
-# SP24-NME-1
+# [SP24] New Member Education Session #1
