@@ -1,4 +1,2 @@
-
-.ipynb_checkpoints/numpy-checkpoint.ipynb
-*.ipynb
 .DS_Store
+/.ipynb_checkpoints
