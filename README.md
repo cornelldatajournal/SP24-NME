@@ -12,15 +12,7 @@ Here is the current schedule for CDJ Spring 2024 NME!
 
 | Session | Date   | Content                                                                                                            | Topic                              | Libraries / Tools         |
 | ------- | ------ | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------- | ------------------------- |
-| 1       | Mar 3  | Data Journalism Process,<br>Tools Overview, NME Overview
-
-Arrays and Dataframes<br>Selecting, Combining, Reshaping | (Overview)
-
-Cleaning/ Manipulation | /
-
-<br>
-
-NumPy, Pandas    |
+| 1       | Mar 3  | Arrays and Dataframes; Selecting, Combining, Reshaping | Cleaning/ Manipulation | NumPy, Pandas    |
 | 2       | Mar 17 | EDA and Plotting                                                                                                   | Exploration                        | Matplotlib, Seaborn       |
 | 3       | Mar 24 | Linear Regression and Evaluation                                                                                   | Modeling                           | Scikit-Learn, StatsModels |
 | /       | /      | Downloading Datasets                                                                                               | Gathering                          | /                         |
