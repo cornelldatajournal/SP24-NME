@@ -68,9 +68,14 @@ Please write a one-paragraph conclusion summarizing your findings through explor
 
 ## Submission
 
-Due date: 
+Due date: **Wednesday, April 17th** by end of day
 
-Please submit the pdf file in [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSd_KefWP_eMm3a8hJhQOetg1EbYXhF2ctnD5ybmIj7m1Zymiw/viewform?usp=sf_link)
+Instruction for submission
+1. Run everything and make sure there are no errors! This can be easily done with the Kernel -> Restart and Run All option.
+2. Select File -> Download as -> HTML (.html). This will generate a file ending with .html (usually in your Downloads folder)
+3. Open the .html file in your web browser (you can do this by double-clicking)
+4. In your browser, go to File -> Print -> Print to PDF to generate a pdf file
+5. Please submit the pdf file in [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSd_KefWP_eMm3a8hJhQOetg1EbYXhF2ctnD5ybmIj7m1Zymiw/viewform?usp=sf_link)
 
 ## How to get help
 
