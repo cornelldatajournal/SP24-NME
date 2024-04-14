@@ -1,4 +1,4 @@
-# [Cornell Data Joruanl] [SP24] New Member Education
+# [Cornell Data Journal] [SP24] New Member Education
 
 Hi, CDJ Class of Spring 2024!
 
