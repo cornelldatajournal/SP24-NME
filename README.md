@@ -10,7 +10,7 @@ Feel free to use the **discussion** pane to ask questions and discuss with peers
 
 Here is the current schedule for CDJ Spring 2024 NME!
 
-| Session | Date   | Content                                                                                                            | Topic                              | Libraries / Tools         |
+| # | Date   | Content                                                                                                            | Topic                              | Libraries / Tools         |
 | ------- | ------ | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------- | ------------------------- |
 | 1       | Mar 3  | Arrays and Dataframes; Selecting, Combining, Reshaping | Cleaning/ Manipulation | NumPy, Pandas    |
 | 2       | Mar 17 | EDA and Plotting                                                                                                   | Exploration                        | Matplotlib, Seaborn       |
